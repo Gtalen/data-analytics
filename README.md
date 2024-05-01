@@ -68,7 +68,7 @@ palmer_penguins
 ## Data Exploration and understanding the data structure.
 The data head and tail functions were used for a quick scan through the beginning and end of the data. The to_string() was used to present the data in a scrollable format and a summary statistics of the data is in the table below.
 
-![descriptives](image.png)[descriptives](https://github.com/Gtalen/data-analytics/blob/main/table_1.png)
+![descriptives](image.png)![descriptives](https://github.com/Gtalen/data-analytics/blob/main/table_1.png)
 
 
 
