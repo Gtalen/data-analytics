@@ -18,7 +18,7 @@ This repository contains my analysis of the popular [Palmer Archipelago penguins
 The [Palmer penguins dataset](https://raw.githubusercontent.com/mwaskom/seaborn-data/master/penguins.csv) is a popular dataset that is made available by [Dr Kirsten Gorman](https://www.uaf.edu/cfos/people/faculty/detail/kristen-gorman.php) and the [Palmer Station Antarctica Long term ecological research network](https://pallter.marine.rutgers.edu/).
 The  [Palmer Archipelago penguins dataset](https://raw.githubusercontent.com/mwaskom/seaborn-data/master/penguins.csv) consists of body measurements of 3 species of penguins; Adelie, Gentoo and Chinstrap found in Biscoe, Dream and Torgersen Islands in Palmer Archipelago, Antarctica. Seven variables were measured, three of which are of the object data type (Categorical) and four were of type float(numerical). The palmer penguin dataset has 344 rows and 7 columns and each of the row represents a penguin included in the study. 
 
-#### [Palmer penguins dataset](https://raw.githubusercontent.com/mwaskom/seaborn-data/master/penguins.csv) Variables
+### Palmer penguins dataset Variables
 1. Species
 2. Island
 3. Bill length (mm)
@@ -39,18 +39,32 @@ The analysis started off by importing the necessary libraries needed for data an
 
 ### Libraries/Prerequisites
 the jupyter notebook used in this project used the Anaconda python Interpreter  in the visual studio  code environment. 
-'''
+
+```
 Install Anaconda python Interpreter
-'''
+
+```
+
 The libraries used for this project Pandas, Numpy, matplotlib_pyplot, Seaborn and Sciplot.stats and these packages are available on the Anaconda installation package. Any additional package can be installed using pip install. Pandas was used for exploring the dataframe, Numpy - numerical arrays was utilized for data analysis while Matplotlib and seaborn was used for plotting data. These can be imported into the jupyter notebook with the commend;
-'''
+
+```
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
 import seaborn as sns
 import scipy.stats as stats
-'''
+```
 
+### Loading the dataset
+
+Once the prerequisites were installed and imported, the dataset was loaded from [here](https://raw.githubusercontent.com/mwaskom/seaborn-data/master/penguins.csv).
+
+```
+# Raw penguin dataset import with pandas and assigning the resulting dataframe to the variable palmer_penguin
+
+palmer_penguins = pd.read_csv("https://raw.githubusercontent.com/mwaskom/seaborn-data/master/penguins.csv")
+palmer_penguins
+```
 
 ## Data Exploration and understanding the data structure.
 The data head and tail functions were used for a quick scan of the beginning and end of the data. The to_string() was used to present the data in a scrollable format and a summary statistics of the data was performed with  describe().
