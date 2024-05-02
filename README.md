@@ -105,12 +105,12 @@ The following statistical techniques were used:
 To get a general overview of the variable set, the descriptive statistics was used for the numerical data and subsets of the numerical data while a histogram and a bar chart was used for the categorical variables.
 
 ### Data Findings/results
-The dataset consist of penguins(n = 344) located in three different islands namely Biscoe (n = 168), Dream (n = 124) and Torgersen (n = 52). The penguins are of three different species Adelie (n = 152), Gentoo (n = 124) and Chinstrap (n = 68). These included male (n = 168), female (n = 165) and other penguins with missing entries for the sex variable (n = 8.). ['Fig1 below'](https://github.com/Gtalen/data-analytics/blob/main/README.md#figure-1) is the frquency table of the species, sex and islands in the datset. This showed that the Adelie penguins in the study were from all three Islands; Togerson, Dream and Biscoe. Chinstrap Penguin were only from the dream island while the gentoo penguins were from the biscoe island. This finding is is in agreement of a similar analysis on the dataset [Fortune, 2022](https://medium.com/@Fortune_/visualizing-the-palmerpenguins-dataset-d3d70bb619b4.)
+The dataset consist of penguins(n = 344) located in three different islands namely Biscoe (n = 168), Dream (n = 124) and Torgersen (n = 52). The penguins are of three different species Adelie (n = 152), Gentoo (n = 124) and Chinstrap (n = 68). These included male (n = 168), female (n = 165) and other penguins with missing entries for the sex variable (n = 8.). [Fig1](https://github.com/Gtalen/data-analytics/blob/main/README.md#figure-1) is the frquency table of the species, sex and islands in the datset. This showed that the Adelie penguins in the study were from all three Islands; Togerson, Dream and Biscoe. Chinstrap Penguin were only from the dream island while the gentoo penguins were from the biscoe island. This finding is is in agreement of a similar analysis on the dataset [Fortune, 2022](https://medium.com/@Fortune_/visualizing-the-palmerpenguins-dataset-d3d70bb619b4.)
  This raises the question on what feature does Adelie has that enables it to adapt to all three Islands?. There seems to be almost equal proportion of male and female penguins innvolved in the dataset across all three islands with the male penguins slightly higher. This raises the question on whether imputation using the mode would be the best approach for this dataset or if it will skew the dataset.
 #### Figure 1
 ![Fig 1](https://github.com/Gtalen/data-analytics/blob/main/PP%20Analysis%20Output/PP%20Cat%20Var%20Histogram.png)
 
-['Table 1'](https://github.com/Gtalen/data-analytics/blob/main/README.md#table-1) below is the summary statistics for the bill length, bill depth, flipper length and body mass of the penguins.
+[Table 1](https://github.com/Gtalen/data-analytics/blob/main/README.md#table-1) below is the summary statistics for the bill length, bill depth, flipper length and body mass of the penguins.
 
 #### Table 1
 <img src = 'https://github.com/Gtalen/data-analytics/blob/main/PP%20Analysis%20Output/Descriptive%20statistics.png' width = '800'/>
@@ -125,5 +125,8 @@ The dataset consist of penguins(n = 344) located in three different islands name
 - Horst AM, Hill AP, Gorman KB (2020). palmerpenguins: Palmer Archipelago (Antarctica) penguin data. R package version 0.1.0. https://allisonhorst github.io/palmerpenguins/. doi:0.5281/zenodo.3960218.
 - https://www.intellspot.com/statistical-methods/
 - https://medium.com/@Fortune_/visualizing-the-palmerpenguins-dataset-d3d70bb619b4
+- https://www.atlassian.com/data/charts/how-to-choose-data-visualization#:~:text=Bar%20charts%20are%20used%20when%20a%20variable%20is,when%20a%20variable%20is%20quantitative%2C%20taking%20numeric%20values.
+- https://realpython.com/pandas-plot-python/#survey-your-data
+- https://www.datacamp.com/tutorial/tutorial-data-cleaning-tutorial
 
 
