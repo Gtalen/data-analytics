@@ -112,7 +112,7 @@ The dataset consist of penguins(n = 344) located in three different islands name
 
 ['Table 1'](...) below is the summary statistics for the bill length, bill depth, flipper length and body mass of the penguins.
 
-<img src = 'https://github.com/Gtalen/data-analytics/blob/main/PP%20Analysis%20Output/Descriptive%20statistics.png' width = '400'/>
+<img src = 'https://github.com/Gtalen/data-analytics/blob/main/PP%20Analysis%20Output/Descriptive%20statistics.png' width = '800'/>
 
  ### Conclusion
 
