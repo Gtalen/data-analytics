@@ -1,0 +1,1 @@
+penguins_Adelie.describe().to_excel('PA descriptives.xlsx', index=False)
