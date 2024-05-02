@@ -108,6 +108,8 @@ To get a general overview of the variable set, the descriptive statistics was us
 The dataset consist of penguins(n = 344) located in three different islands namely Biscoe (n = 168), Dream (n = 124) and Torgersen (n = 52). The penguins are of three different species Adelie (n = 152), Gentoo (n = 124) and Chinstrap (n = 68). These included male (n = 168), female (n = 165) and other penguins with missing entries for the sex variable (n = 8.). '[Fig1 below'] is the frquency table of the species, sex and islands in the datset. across This showed that the Adelie penguins in the study were from all three Islands; Togerson, Dream and Biscoe. Chinstrap Penguin were only from the dream island while the gentoo penguins were from the biscoe island. This finding is is in agreement of a similar analysis on the dataset[Fortune, 2022](https://medium.com/@Fortune_/visualizing-the-palmerpenguins-dataset-d3d70bb619b4.)
  This raises the question on what feature does Adelie has that enables it to adapt to all three Islands?. There seems to be almost equal proportion of male and female penguins innvolved in the dataset across all three islands with the male penguins slightly higher. This raises the question on whether imputation using the mode would be the best approach for this dataset or if it will skew the dataset.
 
+![Fig 1](https://github.com/Gtalen/data-analytics/blob/main/New%20folder/PP%20Cat%20Var%20Histogram.png)
+
 
  ### Conclusion
 
