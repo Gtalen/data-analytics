@@ -82,7 +82,7 @@ Missing values in a dataset may lead to analytical so it is essential that these
 ### Data Modelling
 Data modelling is the process involved in extracting meaningful information from raw data by using visual representation of part or the whole dataset to communicate the connections anbetween the data points and structure (IBM). This was applied to the [Palmer penguins dataset](https://raw.githubusercontent.com/mwaskom/seaborn-data/master/penguins.csv) by first getting information the types of variables it contains.
 
-![Palmer Penguin Datatype](image-1.png)
+![Palmer Penguin Datatype](https://github.com/Gtalen/data-analytics/blob/main/New%20folder/Datatype%20info.png)
 
 The [Palmer penguins dataset](https://raw.githubusercontent.com/mwaskom/seaborn-data/master/penguins.csv) consists of four numerical and threee categorical variable. The variable types were put into consideration in the choice of statistical technique used. To be able to draw useful insight from data, choosing an appropriate statical tool is paramount.
 To get a general overview of the variable set, the descriptive statistics was used for the numerical data and subsets of the numerical data while a histogram and a bar chart was used for the categorical variables.
