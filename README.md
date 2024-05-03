@@ -134,5 +134,7 @@ The dataset consist of penguins(n = 344) located in three different islands name
 - https://seaborn.pydata.org/generated/seaborn.scatterplot.html
 - https://www.statology.org/seaborn-heatmap/
 - https://datagy.io/python-correlation-matrix/
+- https://www.youtube.com/watch?v=EMIyRmrPWJQ
+- https://numpy.org/doc/stable/reference/generated/numpy.polyfit.html
 
 
