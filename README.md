@@ -49,20 +49,22 @@ palmer_penguins
 
 ```
 ### Statistical Models
+Follow along with the project and you will be able to test all of the models;
 
-1. **Descriptives:** This was used to provide a general summary of the palmer penguin dataset at the exploration phase.
-- **Categorical variables:** Summary statistics and Barchart was usedto provide a quick overview of the frequency of occurrence of the data subset. This was used for species, sex and island.
-- **Numerical variables:** Summary statistics, histogram to provides visualization of the frequency of occurence and normality of the dataset. This was used for bill length, bill depth, flipper length, mass versus sepecies, sex and island.
-- **Boxplot:** This was used for visual detection of outliers in the dataset.
+1 **Descriptivee statistics**
+- Barcharts
+- Histograms 
+- Boxplot:
 
-2. **Correlation Analysis:** This was used to test the relationship between flipper length and body mass. 
--  **Scatterplots:** To detect the relationship between two numerical variables; flipper length and body mass.
-- **Heatmap correlation matrix:** This was used to compare the relationship between all the numerical variables in the dataset.
-- **Pairplots:** This was used to plot the pairwise relationships in the palmer penguin dataset.
+2. **Correlation Analysis**  
+-  Scatterplots
+- Heatmap correlation matrix
+- Pairplots
 
-3. **Regression Analysis:** This ws used for  testing relationship between flipper length and body mass and predicting how each affect the other. Body mass was the dependent variable and flipper length the independent variable.
+3. **Regression Analysis
 
-### Analysis Step
+### Analysis Steps 
+Basic analysis applied
 
 - Data Exploration
 - Data Manipulation
@@ -78,5 +80,8 @@ The Palmer penguin dataset was used to demonstrate how raw data can be sourced, 
 ### Contributors
 - Ebelechukwu Chidimma Igwagu
 
-- Contributing: This project is open to external contribution.
+- Eager to contribute? his project is open to external contribution.
+
+### License
+This project is available under the MIT, GNU license.
 
