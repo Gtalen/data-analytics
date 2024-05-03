@@ -1,15 +1,9 @@
 
-# HIgher National Diploma in Science in Computing (Data Analytics)
+## HIgher National Diploma in Science in Computing (Data Analytics)
 ## Principles of Data Analytics (8634: 2024-2024)
 ## Project Title: Analysis of the Palmer Archipelago Penguins Dataset with Python
 ### Author: Ebelechukwu Chidimma Igwagu
 
-## From Github
-What the project does
-Why the project is useful
-How users can get started with the project
-Where users can get help with your project
-Who maintains and contributes to the project
 
 ### Project Description
 
@@ -28,7 +22,7 @@ The [Palmer penguins dataset](https://raw.githubusercontent.com/mwaskom/seaborn-
 - Install Visual studio code
 
 ```
-## USAGE
+### USAGE
 
 ### Libraries/Prerequisites
 
@@ -84,5 +78,5 @@ The Palmer penguin dataset was used to demonstrate how raw data can be sourced, 
 ### Contributors
 - Ebelechukwu Chidimma Igwagu
 
-- Contributing: This project is open to to contribution.
+- Contributing: This project is open to external contribution.
 
