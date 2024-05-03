@@ -56,12 +56,12 @@ Follow along with the project and you will be able to test all of the models;
 - Histograms 
 - Boxplot:
 
-2. **Correlation Analysis**  
+2 **Correlation Analysis**  
 -  Scatterplots
 - Heatmap correlation matrix
 - Pairplots
 
-3. **Regression Analysis
+3 **Regression Analysis
 
 ### Analysis Steps 
 Basic analysis applied
