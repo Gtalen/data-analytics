@@ -137,4 +137,5 @@ The dataset consist of penguins(n = 344) located in three different islands name
 - https://www.youtube.com/watch?v=EMIyRmrPWJQ
 - https://numpy.org/doc/stable/reference/generated/numpy.polyfit.html
 - https://allendowney.github.io/ThinkBayes2/chap12.html
+https://www.statology.org/find-outliers-with-iqr/
 
