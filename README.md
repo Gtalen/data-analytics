@@ -81,7 +81,7 @@ A copy of the original data was created before cleaning up the data as to ensure
 Missing values in a dataset may lead to analytical so it is essential that these are dealt with efficiently (add citation ref). These values were identified using the 'isna function'. The sex column has the highest number of missing values while rows' 3 and 339 were missing a lot of variables awhich may be due to incomplete entries. The 11 missing values under sex were substituted with the mode of the sex variable while rows 3 and 339 were dropped.
 
 ### Data Modelling
-Data modelling is the process involved in extracting meaningful information from raw data by using visual representation of part or the whole dataset to communicate the connections between the data points and structure (IBM). This was applied to the [Palmer penguins dataset](https://raw.githubusercontent.com/mwaskom/seaborn-data/master/penguins.csv) by first getting basic information on the variables and data types in the dataset.
+Data modelling is the process involved in extracting meaningful information from raw data by using visual representation of part or the whole dataset to communicate the connections between the data points and structure ([IBM](https://www.ibm.com/topics/data-modeling#:~:text=Data%20modeling%20is%20the%20process%20of%20creating%20a,to%20communicate%20connections%20between%20data%20points%20and%20structures.)). This was applied to the [Palmer penguins dataset](https://raw.githubusercontent.com/mwaskom/seaborn-data/master/penguins.csv) by first getting basic information on the variables and data types in the dataset.
 
 ```
 palmer_penguins.info()
@@ -136,5 +136,5 @@ The dataset consist of penguins(n = 344) located in three different islands name
 - https://datagy.io/python-correlation-matrix/
 - https://www.youtube.com/watch?v=EMIyRmrPWJQ
 - https://numpy.org/doc/stable/reference/generated/numpy.polyfit.html
-
+- https://allendowney.github.io/ThinkBayes2/chap12.html
 
