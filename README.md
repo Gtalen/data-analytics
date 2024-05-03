@@ -100,7 +100,7 @@ The following statistical techniques were used:
 - Categorical: Barchart and Histogram. Histogram was used because it provides a visualization of the frequency of occurence of each point within the dataset. This was used for bill length, bill depth, flipper length, mass versus sepecies, sex and island.
 - Boxplot: This was used for visual detection of outliers in the datset
 - Scatterplots: To detect the relationship between two numerical variables
-2. Correlation Analysis: This was used to test the relationship between two continuous variables
+2. Correlation Analysis: This was used to test the relationship between two continuous variables. The heatmap correlation matrix was used to compare the relationship between the numerical variables in the dataset.
 3. Regression Analysis: This ws used for  testing relationship between variables and predicting how the variable affect the other while one variable was the independent variable and the other the dependent variable.
 To get a general overview of the variable set, the descriptive statistics was used for the numerical data and subsets of the numerical data while a histogram and a bar chart was used for the categorical variables.
 4. Pairplots: This was used to plot the pairwise relationships in the palmer penguin dataset.
@@ -132,5 +132,7 @@ The dataset consist of penguins(n = 344) located in three different islands name
 - https://medium.com/codex/exploratory-data-analysis-a-roadmap-for-cleaning-3e01a0d694
 - https://seaborn.pydata.org/generated/seaborn.pairplot.html
 - https://seaborn.pydata.org/generated/seaborn.scatterplot.html
+- https://www.statology.org/seaborn-heatmap/
+- https://datagy.io/python-correlation-matrix/
 
 
