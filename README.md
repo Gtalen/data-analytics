@@ -80,7 +80,7 @@ The Palmer penguin dataset was used to demonstrate how raw data can be sourced, 
 ### Contributors
 - Ebelechukwu Chidimma Igwagu
 
-- Eager to contribute? his project is open to external contribution.
+- Eager to contribute? This project is open to external contribution.
 
 ### License
 This project is available under the MIT, GNU license.
